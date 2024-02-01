@@ -25,7 +25,7 @@ Installation
 
     bash
 
-    git clone https://github.com/your-username/simple-bank-backend-java.git
+    https://github.com/Sandy-op/Bank-Backend-Project-Java.git
 
     Open the project in your preferred Java IDE.
 
