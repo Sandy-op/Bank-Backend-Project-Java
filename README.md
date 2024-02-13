@@ -43,7 +43,7 @@ java
 
 // Example code snippet for creating a new account
 Bank bank = new Bank();
-Account newAccount = bank.createAccount("John Doe", "johndoe@example.com", "password123");
+Account newAccount = bank.createAccount("Sandeep Anand", "Sandeepanandpdp@gmail.com", "password123");
 System.out.println("Account created successfully. Account ID: " + newAccount.getId());
 
 Contributing
